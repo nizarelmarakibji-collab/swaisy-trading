@@ -11,5 +11,9 @@
     "express": "^4.19.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.3.0"
   }
 }
