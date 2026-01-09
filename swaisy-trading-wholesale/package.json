@@ -3,9 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
+"scripts": {
   "build": "vite build",
-  "start": "npm run build && node server.js"
+  "start": "node server.js"
 }
   "dependencies": {
     "react": "^19.2.0",
